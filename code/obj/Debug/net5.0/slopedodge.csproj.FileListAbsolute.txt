@@ -1,0 +1,14 @@
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\.intermediate\net5.0\slopedodge.deps.json
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\.intermediate\net5.0\slopedodge.dll
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\.intermediate\net5.0\ref\slopedodge.dll
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\.intermediate\net5.0\slopedodge.pdb
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\.intermediate\net5.0\slopedodge.xml
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.csproj.CopyComplete
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.dll
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\ref\slopedodge.dll
+D:\SteamLibrary\steamapps\common\sbox\Addons\slopedodge\code\obj\Debug\net5.0\slopedodge.pdb
